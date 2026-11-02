@@ -19,4 +19,3 @@ trim_trailing_whitespace = true
 # space 缩进
 indent_style = space
 indent_size = 2
-tab_width
